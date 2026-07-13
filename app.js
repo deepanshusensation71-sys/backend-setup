@@ -12,7 +12,6 @@ app.use(express.json())
 //  routes
 app.use("/api/auth",authRouter)
 
-
 //  http://localhost:5000/api/auth/signup
 
 
